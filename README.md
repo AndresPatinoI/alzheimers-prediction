@@ -1,10 +1,10 @@
 # alzheimers-prediction
-🇪🇸 Modelo IA para predecir Alzheimer analizando 24 factores de riesgo. Detecta la enfermedad antes de síntomas clínicos. Python, CatBoost, FastAPI, Vue.  🇬🇧 AI model predicting Alzheimer's by analyzing 24 risk factors. Detects disease before clinical symptoms. Python, CatBoost, FastAPI, Vue.
+🇪🇸 NeuroCheck es un Modelo de ML para predecir Alzheimer analizando 24 factores de riesgo. Detecta la enfermedad antes de síntomas clínicos. Python, CatBoost, FastAPI, Vue.  🇬🇧 AI model predicting Alzheimer's by analyzing 24 risk factors. Detects disease before clinical symptoms. Python, CatBoost, FastAPI, Vue.
 
-# NeuroPrev: Modelo Predictivo de Alzheimer
+# NeuroCheck: Modelo Predictivo de Alzheimer
 
 ![Predicción de Alzheimer](https://img.shields.io/badge/IA%20en%20Salud-Predicci%C3%B3n%20de%20Alzheimer-blue)
-![Stack Tecnológico](https://img.shields.io/badge/Tecnolog%C3%ADas-Python%20|%20CatBoost%20|%20FastAPI%20|%20React-green)
+![Stack Tecnológico](https://img.shields.io/badge/Tecnolog%C3%ADas-Python%20|%20CatBoost%20|%20FastAPI%20|%20Vue-green)
 ![Estado](https://img.shields.io/badge/Estado-Desplegado-success)
 
 <p align="center">
@@ -26,7 +26,7 @@ Aunque el Alzheimer no tiene cura actualmente, un diagnóstico temprano puede:
 
 ## 💡 Nuestra Solución: Detección temprana impulsada por IA
 
-NeuroPrev es un modelo de aprendizaje automático que puede predecir el riesgo de Alzheimer antes de que aparezcan los síntomas clínicos. Mediante el análisis de datos demográficos, de estilo de vida, genéticos y clínicos, nuestro sistema identifica patrones que los médicos humanos podrían pasar por alto.
+NeuroCheck es un modelo de aprendizaje automático que puede predecir el riesgo de Alzheimer antes de que aparezcan los síntomas clínicos. Mediante el análisis de datos demográficos, de estilo de vida, genéticos y clínicos, nuestro sistema identifica patrones que los médicos humanos podrían pasar por alto.
 
 ### Beneficios Clave:
 
@@ -218,7 +218,7 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENS
 ===================================================================================================================================================================================
 ENGLISH VERSION
 ===================================================================================================================================================================================
-# NeuroPrev: Alzheimer's Prediction Model
+# NeuroCheck: Alzheimer's Prediction Model
 
 ![Alzheimer's Prediction](https://img.shields.io/badge/AI%20in%20Healthcare-Alzheimer's%20Prediction-blue)
 ![Tech Stack](https://img.shields.io/badge/Tech-Python%20|%20CatBoost%20|%20FastAPI%20|%20React-green)
@@ -243,7 +243,7 @@ While Alzheimer's has no cure today, early diagnosis can:
 
 ## 💡 Our Solution: AI-Powered Early Detection
 
-NeuroPrev is a machine learning model that can predict Alzheimer's risk before clinical symptoms appear. By analyzing demographic, lifestyle, genetic, and clinical data, our system identifies patterns that human clinicians might miss.
+NeuroCheck is a machine learning model that can predict Alzheimer's risk before clinical symptoms appear. By analyzing demographic, lifestyle, genetic, and clinical data, our system identifies patterns that human clinicians might miss.
 
 ### Key Benefits:
 
